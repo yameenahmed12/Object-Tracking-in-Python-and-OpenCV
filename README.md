@@ -19,3 +19,4 @@ This project is a demo for a Highway Traffic Monitoring System which uses comput
   - NumPy Library
  
   
+![image](https://github.com/user-attachments/assets/699a41af-b542-4fb2-9e7f-c21cc0ecf8d8)
